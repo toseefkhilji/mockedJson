@@ -1,7 +1,9 @@
 {
-    "Post": {
+    "MyPost": {
         "title": { "string": {} },
         "comments": { "string": {} },
-        "author": {"string" :"TK"}
+        "tag": {
+            "string": ["TK", "KT"]
+        }
     }
 }
