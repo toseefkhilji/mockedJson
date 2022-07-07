@@ -1,5 +1,5 @@
 {
-    "MyPost": {
+    "User": {
         "title": { "string": {} },
         "comments": { "string": {} },
         "tag": {
