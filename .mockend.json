@@ -2,6 +2,6 @@
     "Post": {
         "title": { "string": {} },
         "comments": { "string": {} },
-        "author": "TK"
+        "author": {"string" :"TK"}
     }
 }
