@@ -3,7 +3,7 @@
         "title": { "string": {} },
         "comments": { "string": {} },
         "tag": {
-            "string": ["TK", "KT"]
+            "string": ["TK"]
         }
     }
 }
